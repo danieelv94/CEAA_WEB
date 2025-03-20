@@ -1,0 +1,172 @@
+.secretaria_name h1{
+    color: var(--wine);
+    text-align: center;
+    font-family: Montserrat-Bold;
+}
+.secretaria_logo{
+    display: flex;
+    justify-content: center;
+}
+.secretaria_logo .secretaria_logo_img{
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.secretaria_funciones p{
+    text-align: justify;
+}
+.btn_organigrama{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.btn_organigrama button{
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.btn_organigrama button:nth-child(1){
+    margin-right: 30px;
+}
+.secretaria-redes{
+    margin-top: 50PX;
+    text-align: center;
+}
+.secretaria-redes a:nth-child(1) {
+    margin-right: 50px;
+}
+.secretaria-redes a:nth-child(2) {
+    margin-right: 50px;
+}
+.secretaria-redes a:hover{
+    color: var(--pink);
+}
+.secretaria-redes a i{
+    font-weight: 800;
+    font-size: 30px;
+}
+.notice_content{
+    display: flex;
+}
+.card {
+    margin-top: 10px;
+    border: 1px solid var(--gold);
+    border-radius: 20px;
+}
+.card_container{
+    height: 300px;
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 0 20px;
+}
+.card_container .card_date{
+    text-align: right;
+    color: #7e7e8d;
+}
+.card_container .card-title{
+    color: var(--pink);
+}
+.card_container .card-subtitle{
+    color: black !important;
+}
+.card_container a{
+    color: var(--gold);
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+    font-size: 20px;
+}
+.section_notes{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+.img_secretario{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: 10px solid var(--wine);
+}
+.sec_container{
+    margin-left: 50px;
+}
+.sec_name h3{
+    color: var(--wine);
+    font-family: Montserrat-Bold;
+}
+.sec_function h4{
+    color: #7e7e8d;
+}
+.sec_function a{
+    text-decoration: none;
+    color: var(--gold);
+    border: 1px solid var(--gold);
+    padding: 5px 10px;
+    font-weight: 700;
+    border-radius: 7px;
+}
+.sec_function p{
+    text-align: justify;
+}
+@media (max-width: 576px) {
+    .secretaria_name H1{
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .notice_title h1{
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .btn_organigrama a{
+        font-size: 20px;
+    }
+    .notes_title h1{
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .card_container {
+        padding: 0;
+    }
+    .map_name h1{
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .notice_content{
+        flex-direction: column;
+    }
+    .sec_container{
+        padding: 0 15px;
+        margin: 0;
+    }
+    .section_notes{
+        display: block;
+    }
+    .sec_photo{
+        display: flex;
+        justify-content: center;
+    }
+    .img_secretario {
+        margin-bottom: 50px;
+    }
+    .sec_function .btn_agenda{
+        margin-top: 50px;
+        text-align: center;
+    }
+    .secretaria_funciones p{
+        padding: 0 15px;
+    }
+}
+@media  (min-width: 577px) and (max-width: 820px){
+    .img_secretario{
+        width: 170px;
+        height: 170px;
+    }
+}

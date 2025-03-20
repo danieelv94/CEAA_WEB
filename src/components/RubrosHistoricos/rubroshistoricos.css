@@ -1,0 +1,32 @@
+.card_container_historicos{
+    border: 1px solid var(--wine);
+    margin: 50px 0;
+    border-radius: 10px;
+    padding: 20px;
+}
+.card_anio h5{
+    color: var(--pink);
+    font-family: 'Montserrat-SemiBold';
+}
+.card_anio h6{
+    color: var(--wine);
+}
+.card_trimestre .bg-secondary{
+    float: right;
+}
+.card_trimestre p{
+    color: var(--gold);
+}
+.card_trimestre .bg-secondary a{
+    color: #fff;
+    text-decoration: none;
+}
+@media (max-width:576px) {
+    .card_trimestre p{
+        font-size: 20px;
+    }
+    .card_anio h5, .card_anio h6{
+        font-size: 25px;
+        font-family: Montserrat-Bold;
+    }
+}
