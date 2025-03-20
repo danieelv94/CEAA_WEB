@@ -197,7 +197,10 @@ export const Armonizacion = [
     {
         "titulo" : "Cuenta Pública",
         "subtitulo" : [
-             {
+            {
+                "informacionTitulo" : "2024",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/ctapub24.pdf"                
+            },{
                  "informacionTitulo" : "2023",
                  "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/ctapub23.pdf"                
              },
@@ -292,6 +295,9 @@ export const Armonizacion = [
         "titulo" : "Otras Obligaciones LGCG",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2024",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/oobli24.pdf"                
+            },{
                 "informacionTitulo" : "2023",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/oobli23.pdf"                
             },
@@ -336,7 +342,10 @@ export const Armonizacion = [
     {
         "titulo" : "Dictamen de Estados Financieros",
         "subtitulo" : [
-             {
+            {
+                "informacionTitulo" : "2024",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/8/Dictamen%202024.pdf"                
+           },{
                  "informacionTitulo" : "2023",
                  "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/8/Dictamen%202023.pdf"                
             },

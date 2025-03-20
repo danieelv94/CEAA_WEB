@@ -741,7 +741,7 @@ export const rubros = [
 					"html": "f46_b"
 				}
 			],
-			"url" : "https://s-turismo.hidalgo.gob.mx/transparencia/48rubros/Actas_de_Sesiones_Opiniones_y_Recomendaciones_de_Consejos_Consultivos.html"	
+			"url" : "https://s-turismo.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/46.Actas%20de%20Sesiones,%20Opiniones%20y%20Recomendaciones%20de%20Consejos%20Consultivos"	
 			
 		},
 		{
