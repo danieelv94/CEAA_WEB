@@ -695,21 +695,16 @@ export const rubros = [
 			"icono":"DonacionesHechasTerceros.png",
 			"formatos": [
 				{
-					"nombre": "Donaciones hechas a Terceros en Dineros",
-					"xlsx": "f44_a",
-					"html": "f44_a"
-				},
-				{
-					"nombre": "Donaciones Hechas a Terceros en Especie",
-					"xlsx": "f44_b",
-					"html": "f44_b"
+					"nombre": "Donaciones en dinero y en especie realizadas",
+					"xlsx": "f44",
+					"html": "f44"
 				}
 			]	
 			
 		},
 		{
 			
-			"nombre": "45 Catálogo Documental y Guia de Archivos",
+			"nombre": "45.Catálogo Documental y Guia de Archivos",
 			"icono":"Viaticos.png",
 			"formatos": [
 				{
@@ -718,7 +713,12 @@ export const rubros = [
 					"html": "f45_a"
 				},
 				{
-					"nombre": "Cuadro General de Clasificación Archivística, Catálogo de Disposición Documental, Guía de Archivo Documental, Programa Anual de Desarrollo Archivístico. Programa Anual de Cumplimiento, Actas y Dictámenes de Baja Documental.",
+					"nombre": "Indice de Expedientes Clasificados.",
+					"xlsx": "f45_b",
+					"html": "f45_b"
+				},
+				{
+					"nombre": "Instrumentos Archivísticos",
 					"xlsx": "f45_c",
 					"html": "f45_c"
 				}
