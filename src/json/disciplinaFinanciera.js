@@ -3,6 +3,9 @@ export const Disciplina = [
         "titulo" : "Información",        
          "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/ldf/TLDF25.pdf"
+            },{
                 "informacionTitulo" : "2024",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2024/ldf/TLDF24.pdf"
             },

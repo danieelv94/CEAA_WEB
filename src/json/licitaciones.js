@@ -1,4 +1,31 @@
 export const licitaciones = [
+    
+    {
+             "anio" : "2025",
+             "licitacionesLista" : [
+                 {
+                     "nombre" : "Nº: CEAA-913023990-ADQ-E1-2025",
+                     "contenidoLicitacion" : [
+                    {
+                        "nombre" : "Bases",
+                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/ADQ-E01-2025.zip"
+                    },
+                    {
+                        "nombre" : "Junta de Aclaraciones",
+                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/JUNTA-ADQ-E01-2025.pdf"
+                    },
+                    {
+                        "nombre" : "Presentación y Apertura de propuestas",
+                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/ACTA-ADQ-E01-2025.pdf"
+                    },
+                    {
+                        "nombre" : "Fallo",
+                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/FALLO-ADQ-E01-2025.pdf"
+                    }
+                ]
+            }
+             ]
+        },
     {
 
         "anio" : "2024",

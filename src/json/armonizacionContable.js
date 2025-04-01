@@ -3,6 +3,10 @@ export const Armonizacion = [
         "titulo" : "Información Contable",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/conta25.pdf"                
+            },
+            {
                 "informacionTitulo" : "2024",
                 "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2024/armctb/conta24.pdf"                
             },
@@ -51,7 +55,10 @@ export const Armonizacion = [
     {
         "titulo" : "Información Presupuestaria",
         "subtitulo" : [
-             {
+            {
+                "informacionTitulo" : "2025",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/presu25.pdf"                
+            },{
                 "informacionTitulo" : "2024",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2024/armctb/presu24.pdf"                
             },
@@ -101,6 +108,9 @@ export const Armonizacion = [
         "titulo" : "Información Programatica",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/progra25.pdf"                
+            },{
                 "informacionTitulo" : "2024",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2024/armctb/progra24.pdf"                
             },
@@ -150,6 +160,9 @@ export const Armonizacion = [
         "titulo" : "Inventario de Bienes",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/inven25.pdf"                
+           },{
                 "informacionTitulo" : "2024",
                 "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2024/armctb/inven24.pdf"                
            },{
@@ -198,6 +211,9 @@ export const Armonizacion = [
         "titulo" : "Cuenta Pública",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/ctapub25.pdf"                
+            },{
                 "informacionTitulo" : "2024",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/ctapub24.pdf"                
             },{
@@ -246,6 +262,9 @@ export const Armonizacion = [
         "titulo" : "Normas (Titulo Quinto LGCG)",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/norma25.pdf"                
+            },{
                 "informacionTitulo" : "2024",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2024/armctb/norma24.pdf"                
             },
@@ -295,6 +314,9 @@ export const Armonizacion = [
         "titulo" : "Otras Obligaciones LGCG",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/oobli25.pdf"                
+            },{
                 "informacionTitulo" : "2024",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/oobli24.pdf"                
             },{
@@ -343,6 +365,9 @@ export const Armonizacion = [
         "titulo" : "Dictamen de Estados Financieros",
         "subtitulo" : [
             {
+                "informacionTitulo" : "2025",
+                "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/armctb/8/Dictamen%202025.pdf"                
+           },{
                 "informacionTitulo" : "2024",
                 "url" : "http://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2023/armctb/8/Dictamen%202024.pdf"                
            },{
