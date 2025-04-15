@@ -1,6 +1,6 @@
 .transparencia_title{
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 .transparencia_title h1{
     color: var(--wine);
@@ -10,23 +10,44 @@
     padding-top: 50px;
     margin-bottom: 50px;
 }
+.transparencia_item {
+    margin-bottom: 20px;
+    padding: 10px;
+}
 .transparencia_item a{
     color: var(--gold);
     font-size: 20px;
     text-decoration: none;
-    display: flex;
-    justify-content: center;
+    display: block;
+    padding: 15px 20px;
+    border: 2px solid var(--gold);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+.transparencia_item a:hover {
+    background-color: var(--gold);
+    color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 @media (max-width: 576px){
     .transparencia-container{
         min-height: 600px;
     }
+    .transparencia_item {
+        margin-bottom: 15px;
+    }
     .transparencia_item a{
-        padding: 10px 0;
+        padding: 12px 15px;
+        font-size: 18px;
     }
 }
 @media (min-width:577px) and (max-width:820px){
     .transparencia-container{
         min-height: 600px;
+    }
+    .transparencia_item {
+        margin-bottom: 18px;
     }
 }

@@ -12,7 +12,7 @@ export const transparencia_item = [
        "transparencia_item_url" : "/Transparencia/Licitaciones"
     },
     {
-       "transparencia_item_nombre" : "Armonizacion Contable",
+       "transparencia_item_nombre" : "Armonización Contable",
        "transparencia_item_url" : "/Transparencia/Armonizacion"
     },
     {
@@ -62,7 +62,10 @@ export const transparencia_item = [
      },{
         "transparencia_item_nombre" : "Género",
         "transparencia_item_url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2024/web/Genero.pdf"
-     }
+     },{
+      "transparencia_item_nombre" : "Ley de Egresos",
+      "transparencia_item_url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/web/LeyEgresos.pdf"
+   }
 
 
     
