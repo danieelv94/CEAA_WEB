@@ -713,11 +713,6 @@ export const rubros = [
 					"html": "f45_a"
 				},
 				{
-					"nombre": "Indice de Expedientes Clasificados.",
-					"xlsx": "f45_b",
-					"html": "f45_b"
-				},
-				{
 					"nombre": "Instrumentos Archivísticos",
 					"xlsx": "f45_c",
 					"html": "f45_c"
