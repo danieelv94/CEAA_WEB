@@ -69,9 +69,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Junta de Aclaraciones",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E04-2025/Junta_Aclaraciones.pdf"
-                    },{
-                        "nombre" : "Invitación a Contratistas",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E04-2025/Invitacion.pdf"
                     },
                     {
                         "nombre" : "Bases",
@@ -84,10 +81,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Planos",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E04-2025/planos.dwg"
-                    },
-                    {
-                        "nombre" : "Modelo de Contrato Estatal",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E04-2025/MODELO%20DE%20CONTRATO.doc"
                     },
                     {
                         "nombre" : "Apertura de Proposiciones",
@@ -104,9 +97,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Junta de Aclaraciones",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E05-2025/Junta_Aclaraciones.pdf"
-                    },{
-                        "nombre" : "Invitación a Contratistas",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E05-2025/Invitacion.pdf"
                     },
                     {
                         "nombre" : "Bases",
@@ -119,10 +109,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Planos",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E05-2025/planos.dwg"
-                    },
-                    {
-                        "nombre" : "Modelo de Contrato Estatal",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E05-2025/MODELO%20DE%20CONTRATO.doc"
                     },
                     {
                         "nombre" : "Apertura de Proposiciones",
@@ -139,9 +125,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Junta de Aclaraciones",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E06-2025/Junta_Aclaraciones.pdf"
-                    },{
-                        "nombre" : "Invitación a Contratistas",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E06-2025/Invitacion.pdf"
                     },
                     {
                         "nombre" : "Bases",
@@ -154,10 +137,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Planos",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E06-2025/planos.dwg"
-                    },
-                    {
-                        "nombre" : "Modelo de Contrato Estatal",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E06-2025/MODELO%20DE%20CONTRATO.doc"
                     },
                     {
                         "nombre" : "Apertura de Proposiciones",
@@ -174,9 +153,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Junta de Aclaraciones",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E07-2025/Junta_Aclaraciones.pdf"
-                    },{
-                        "nombre" : "Invitación a Contratistas",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E07-2025/Invitacion.pdf"
                     },
                     {
                         "nombre" : "Bases",
@@ -189,10 +165,6 @@ export const licitaciones = [
                     {
                         "nombre" : "Planos",
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E07-2025/planos.dwg"
-                    },
-                    {
-                        "nombre" : "Modelo de Contrato Estatal",
-                        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E07-2025/MODELO%20DE%20CONTRATO.doc"
                     },
                     {
                         "nombre" : "Apertura de Proposiciones",
