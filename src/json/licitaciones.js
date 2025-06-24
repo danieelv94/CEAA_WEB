@@ -175,7 +175,30 @@ export const licitaciones = [
                         "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E07-2025/Comunicacion%20de%20fallo.pdf"
                     }
                 ]
-            }
+            },{
+                "nombre" : "Nº: CEAA-913023990-ADQ-E8-2025",
+                "contenidoLicitacion" : [
+               {
+                   "nombre" : "Bases",
+                   "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/BASE-ADQ-E08-2025.zip"
+               },
+               {
+                "nombre" : "Invitaciones",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/INV-ADQ-E08-2025.zip"
+                },{
+                   "nombre" : "Junta de Aclaraciones",
+                   "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/JUNTA-ADQ-E08-2025.pdf"
+               },
+               {
+                   "nombre" : "Presentación y Apertura de Preposiciones",
+                   "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/ACTA-ADQ-E08-2025.pdf"
+               },
+               {
+                   "nombre" : "Fallo",
+                   "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/FALLO-ADQ-E08-2025.pdf"
+               }
+           ]
+       }
              ]
         },
     {
