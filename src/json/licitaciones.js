@@ -571,6 +571,174 @@ export const licitaciones = [
             "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913023990-E24-2025/especificaciones_tecnicas.pdf"
         }
     ]
+},{
+    "nombre" : "IA-72-R58-913023990-N-18-2025",
+    "contenidoLicitacion" : [
+   {
+       "nombre" : "Bases",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-18-2025/ADQ-N18-2025.zip"
+   },
+   {
+       "nombre" : "Junta de Aclaraciones",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-18-2025/JUNTA-ADQ-N18-2025.pdf"
+   },
+   {
+       "nombre" : "Presentación y Apertura de propuestas",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-18-2025/ACTA-ADQ-N18-2025.pdf"
+   },
+   {
+       "nombre" : "Fallo",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-18-2025/FALLO-ADQ-N18-2025.pdf"
+   }
+]
+},{
+    "nombre" : "IA-72-R58-913023990-N-19-2025",
+    "contenidoLicitacion" : [
+   {
+       "nombre" : "Bases",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-19-2025/ADQ-N19-2025.zip"
+   },
+   {
+       "nombre" : "Junta de Aclaraciones",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-19-2025/JUNTA-ADQ-N19-2025.pdf"
+   },
+   {
+       "nombre" : "Presentación y Apertura de propuestas",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-19-2025/ACTA-ADQ-N19-2025.pdf"
+   },
+   {
+       "nombre" : "Fallo",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-19-2025/FALLO-ADQ-N19-2025.pdf"
+   }
+]
+},{
+    "nombre" : "IA-72-R58-913023990-N-20-2025",
+    "contenidoLicitacion" : [
+   {
+       "nombre" : "Bases",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-20-2025/ADQ-N20-2025.zip"
+   },
+   {
+       "nombre" : "Junta de Aclaraciones",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-20-2025/JUNTA-ADQ-N20-2025.pdf"
+   },
+   {
+       "nombre" : "Presentación y Apertura de propuestas",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-20-2025/ACTA-ADQ-N20-2025.pdf"
+   },
+   {
+       "nombre" : "Fallo",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-20-2025/FALLO-ADQ-N20-2025.pdf"
+   }
+]
+},{
+    "nombre" : "IA-72-R58-913023990-N21-2025",
+    "contenidoLicitacion" : [
+   {
+       "nombre" : "Bases",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-21-2025/ADQ-N21-2025.zip"
+   },
+   {
+       "nombre" : "Junta de Aclaraciones",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-21-2025/JUNTA-ADQ-N21-2025.pdf"
+   },
+   {
+       "nombre" : "Presentación y Apertura de propuestas",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-21-2025/ACTA-ADQ-N21-2025.pdf"
+   },
+   {
+       "nombre" : "Fallo",
+       "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/IA-72-R58-913023990-N-21-2025/FALLO-ADQ-N21-2025.pdf"
+   }
+]
+},{
+    "nombre" : "CEAA-OP-913023990-E25-2025",
+    "contenidoLicitacion" : [
+        {
+            "nombre" : "Junta de Aclaraciones",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E25-2025/Junta_Aclaraciones.pdf"
+        },
+        {
+            "nombre" : "Bases",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E25-2025/BASES_AD-OBRA.zip"
+        },
+        {
+            "nombre" : "Catalogo Mudo",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E25-2025/CATALOGO-MUDO.xlsx"
+        },
+        {
+            "nombre" : "Planos",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E25-2025/planos.dwg"
+        },
+        {
+            "nombre" : "Apertura de Proposiciones",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E25-2025/Acto%20de%20presentacion%20y%20apertura.pdf"
+        },
+        {
+            "nombre" : "Comunicación de Fallo",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E25-2025/Comunicacion%20de%20fallo.pdf"
+        }
+    ]
+},{
+    "nombre" : "CEAA-OP-913023990-E26-2025 Segundo Procedimiento",
+    "contenidoLicitacion" : [
+        {
+            "nombre" : "Junta de Aclaraciones",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E26-2025/Junta_Aclaraciones.pdf"
+        },
+        {
+            "nombre" : "Bases",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E26-2025/BASES_AD-OBRA.zip"
+        },
+        {
+            "nombre" : "Catalogo Mudo",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E26-2025/CATALOGO-MUDO.xlsx"
+        },
+        {
+            "nombre" : "Planos",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E26-2025/planos.dwg"
+        },
+        {
+            "nombre" : "Apertura de Proposiciones",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E26-2025/Acto%20de%20presentacion%20y%20apertura.pdf"
+        },
+        {
+            "nombre" : "Comunicación de Fallo",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E26-2025/Comunicacion%20de%20fallo.pdf"
+        }
+    ]
+},{
+    "nombre" : "CEAA-OP-913023990-E27-2025",
+    "contenidoLicitacion" : [
+        {
+            "nombre" : "Junta de Aclaraciones",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E27-2025/Junta_Aclaraciones.pdf"
+        },
+        {
+            "nombre" : "Bases",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E27-2025/BASES_AD-OBRA.zip"
+        },
+        {
+            "nombre" : "Catalogo Mudo",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E27-2025/CATALOGO-MUDO.xlsx"
+        },
+        {
+            "nombre" : "Planos",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E27-2025/planos.dwg"
+        },
+        {
+            "nombre" : "Apertura de Proposiciones",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E27-2025/Acto%20de%20presentacion%20y%20apertura.pdf"
+        },
+        {
+            "nombre" : "Comunicación de Fallo",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E27-2025/Comunicacion%20de%20fallo.pdf"
+        },
+        {
+            "nombre" : "Termino de Referencia",
+            "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913013990-E27-2025/termino_referencia.pdf"
+        }
+    ]
 }
              ]
         },
