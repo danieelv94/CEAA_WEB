@@ -1,5 +1,14 @@
 export const rubrosHistoricos = [
     {
+        "anio" : "2025",
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/dir1/zip/1erTrimestre2025CEAA.zip"
+            }
+        ]
+    },{
         "anio" : "2024",
         "descripcion" : "Disponibilidad de los trimestres anteriores",
         "trimestres" : [
@@ -12,6 +21,9 @@ export const rubrosHistoricos = [
             },{
                 "trimestre" : "Tercer Trimestre",
                 "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/dir1/zip/3erTrimestre2024CEAA.zip"
+            },{
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/dir1/zip/4toTrimestre2024CEAA.zip"
             }
         ]
     },{
