@@ -204,7 +204,7 @@ export const rubros = [
 					"html": "f15_b"
 				}
 			],
-			"url" : "https://s-obraspublicas.hidalgo.gob.mx/transparencia/48rubros/Programas_Sociales.html"
+			"url" : "https://s-infraestructura.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/15.%20Programas%20Sociales"
 		},
 		{
 			
@@ -273,7 +273,7 @@ export const rubros = [
 					"html": "f20"
 				}
 			],
-			"url" : "https://s-obraspublicas.hidalgo.gob.mx/transparencia/48rubros/Tramites.html"
+			"url" : "https://s-infraestructura.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/20.%20Tr%C3%A1mites"
 			
 		},
 		{
@@ -310,7 +310,7 @@ export const rubros = [
 					"html": "f22"
 				}
 			],
-			"url" : "https://s-finanzas.hidalgo.gob.mx/transparencia/48rubros/Deuda_Publica.html"
+			"url" : "https://hacienda.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/22.Deuda%20P%C3%BAblica"
 		},
 		{
 			
@@ -636,7 +636,7 @@ export const rubros = [
 					"html": "f40_b"
 				}
 			],
-			"url" : "https://s-finanzas.hidalgo.gob.mx/transparencia/48rubros/Evaluacion_y_Encuestas_a_Programas_Financiados_con_Recursos_Publicos.html"	
+			"url" : "https://hacienda.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/40.Evaluacion%20y%20Encuestas%20a%20Programas%20Financiados%20con%20Recursos%20P%C3%BAblicos"	
 			
 		},
 		{
@@ -711,6 +711,13 @@ export const rubros = [
 					"nombre": "Inventarios Documentales",
 					"xlsx": "f45_a",
 					"html": "f45_a"
+				},
+				{
+					"nombre": "Catálogo de Disposición y Guía de Archivos",
+					"xlsx": "f45_b",
+					"html": "f45_b",
+					"xlsx_liga": "https://s-contraloria.hidalgo.gob.mx/Transparencia/xlsx/a69_f45b_SC.xlsx",
+					"htm_liga": "https://s-contraloria.hidalgo.gob.mx/Transparencia/htm/a69_f45b_SC.htm"
 				},
 				{
 					"nombre": "Instrumentos Archivísticos",
