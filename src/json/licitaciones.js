@@ -1467,6 +1467,129 @@ export const licitaciones = [
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-OP-913023990-E53-2025/Terminos_de_referencia.pdf"
                     }
                 ]
+            }, {
+                "nombre": "CEAA-AO-913023990-E54-2025 ",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E54-2025/Junta_Aclaraciones.pdf"
+                    },
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E54-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Catalogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E54-2025/CATALOGO-MUDO.xlsx"
+                    }, {
+                        "nombre": "PLANOS",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E54-2025/PLANOS.zip"
+                    },
+                    {
+                        "nombre": "Apertura de Proposiciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E54-2025/Acto%20de%20presentacion%20y%20apertura.pdf"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E54-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "CEAA-AO-913023990-E55-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E55-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/CEAA-AO-913023990-E55-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "AA-72-R58-913023990-N-66-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-66-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-66-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "AA-72-R58-913023990-N-67-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-67-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-67-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "AA-72-R58-913023990-N-68-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-68-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-68-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "AA-72-R58-913023990-N-69-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-69-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-69-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "AA-72-R58-913023990-N-70-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-70-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-70-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "AA-72-R58-913023990-N-71-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-71-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-71-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "AA-72-R58-913023990-N-72-2025",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-72-2025/BASES_AD-OBRA.zip"
+                    },
+                    {
+                        "nombre": "Comunicación de Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2025/R28/AA-72-R58-913023990-N-72-2025/Comunicacion%20de%20fallo.pdf"
+                    }
+                ]
             }
         ]
     },
