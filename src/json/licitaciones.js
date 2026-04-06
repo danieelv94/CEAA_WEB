@@ -1,5 +1,58 @@
 export const licitaciones = [
-
+    {
+        "anio": "2026",
+        "licitacionesLista": [
+            {
+                "nombre": "CEAA-913023990-ADQ-E1-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E01-2026/BASES-ADQ-E01-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E01-2026/CONVOCATORIA-ADQ-E01-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E01-2026/JUNTA-ADQ-E01-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E01-2026/ACTA-ADQ-E01-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E01-2026/FALLO-ADQ-E01-2026.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "CEAA-913023990-ADQ-E2-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E02-2026/BASES-ADQ-E02-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E02-2026/CONVOCATORIA-ADQ-E02-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E02-2026/JUNTA-ADQ-E02-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E02-2026/ACTA-ADQ-E02-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E02-2026/FALLO-ADQ-E02-2026.pdf"
+                    }
+                ]
+            }
+        ]
+    },
     {
         "anio": "2025",
         "licitacionesLista": [
