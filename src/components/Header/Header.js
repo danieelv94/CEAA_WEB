@@ -9,67 +9,100 @@ const Header = () => {
     const [activeSubmenu, setActiveSubmenu] = useState(null);
 
   const handleMouseEnter = (submenu) => {
-    setActiveSubmenu(submenu);
+    if(!isMobile) setActiveSubmenu(submenu);
   }
   const handleMouseLeave = () => {
-    setActiveSubmenu(null);
+    if(!isMobile) setActiveSubmenu(null);
+  }
+  const handleMenuClick = (submenu) => {
+    if(isMobile) {
+      setActiveSubmenu(activeSubmenu === submenu ? null : submenu);
+    }
   }
 
   const hideMenu = () => {
     const div =  document.getElementById('navbarNav');
-    div.classList.remove('show');
+    if(div) {
+        div.classList.remove('show');
+    }
     setOverlay(false);
   }
   
   return (
     <>
         {
-            overlay ? <div onClick={()=>{setOverlay(!overlay)}} className='overlay-menu' data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav"></div> : null
+            overlay && <div onClick={hideMenu} className='overlay-menu'></div>
         }
-        <div id='header'>
-            <nav className="navbar navbar-expand-lg navbar-light bg-gob">
+        <div id='header' className="header-wrapper">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-gob-header">
                 <div className="container-fluid">
-                    <Link className="nav-link active" aria-current="page" to="/">
+                    <Link className="navbar-brand d-flex align-items-center" aria-current="page" to="/">
                         {
-                            isMobile ? <img className='logo-menu' src=''/> : <span>COMISIÓN ESTATAL DEL AGUA Y ALCANTARILLADO</span>
-                            // isMobile ? <img className='logo-menu' src='https://cdn.hidalgo.gob.mx/gobierno/images/secretarias/Infraestructura/Infraestructura_ocre_h.svg'/> : <span>COMISIÓN ESTATAL DEL AGUA Y ALCANTARILLADO</span>
-                            // isMobile ? <img className='logo-menu' src='https://cdn.hidalgo.gob.mx/gobierno/images/secretarias/MedioAmbiente/MedioAmbiente_ocre_h.svg'/> : <span>COMISIÓN ESTATAL DEL AGUA Y ALCANTARILLADO</span>
+                            isMobile ? (
+                                <span className="mobile-brand"><i className="fa-solid fa-water"></i> CEAA</span>
+                            ) : (
+                                <span className="desktop-brand">
+                                  <i className="fa-solid fa-water"></i> COMISIÓN ESTATAL DEL AGUA Y ALCANTARILLADO
+                                </span>
+                            )
                         }
                     </Link>
-                    <span className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" onClick={()=>{setOverlay(true)}} style={{color: "white"}} viewBox="0 0 32 32">
-                        MENÚ
-                    </span>
+                    <button className="navbar-toggler modern-toggler" type="button" onClick={()=>{setOverlay(true)}} data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                        <span className="toggler-icon"><i className="fa-solid fa-bars"></i> MENÚ</span>
+                    </button>
                     <div className="collapse navbar-collapse second-navbar-gob" id="navbarNav">
-                        <ul id='menu-list' className="navbar-nav"
-                            onClick={() => {setActiveSubmenu(null); hideMenu()}}>
+                        <ul id='menu-list' className="navbar-nav ms-auto">
                             <li className="nav-item">
-                                <Link to="/" className="nav-link">Inicio</Link>
+                                <Link to="/" className="nav-link" onClick={() => {setActiveSubmenu(null); hideMenu()}}>
+                                  <i className="fa-solid fa-house-chimney me-1"></i> Inicio
+                                </Link>
                             </li>
                             {
                                 links.map((item, index)=>(
-                                    <li key={ index } className="nav-item dropdown"
+                                    <li key={ index } className={`nav-item dropdown ${activeSubmenu === item.nombre ? 'active-dropdown' : ''}`}
                                         onMouseEnter={() => handleMouseEnter( item.nombre )}
-                                        onMouseLeave={handleMouseLeave}>
-                                        <Link to={ item.link } 
-                                            className="nav-link"
-                                            onClick={() =>{setActiveSubmenu(null) }}>{ item.nombre }</Link>
+                                        onMouseLeave={handleMouseLeave}
+                                        onClick={() => handleMenuClick( item.nombre )}>
+                                        <div className="nav-link dropdown-toggle-custom"
+                                            onClick={(e) => { 
+                                              if(!item.submenu || item.submenu.length === 0) {
+                                                setActiveSubmenu(null); 
+                                                hideMenu();
+                                              }
+                                            }}>
+                                            { item.link ? (
+                                                <Link to={item.link}>{ item.nombre }</Link>
+                                            ) : (
+                                                <span>{ item.nombre }</span>
+                                            )}
+                                            {
+                                                item.submenu && item.submenu.length > 0 && (
+                                                    <i className={`fa-solid fa-chevron-down ms-1 icon-arrow ${activeSubmenu === item.nombre ? "rotated" : ""}`}></i>
+                                                )
+                                            }
+                                        </div>
                                         {
                                             item.submenu && item.submenu.length > 0 && (
-                                                <ol className={`dropdown-menu ${activeSubmenu ===  item.nombre  ? "show" : ""}`} aria-labelledby="navbarDropdownMenuLink">
+                                                <ul className={`dropdown-menu modern-dropdown ${activeSubmenu ===  item.nombre  ? "show" : ""}`}>
                                                     {
-                                                        item.submenu.map((item, index)=>(
-                                                            <li key={ index }><Link className="dropdown-item" to={ item.subMenuUrl }>{ item.subMenuNombre }</Link></li>
+                                                        item.submenu.map((subItem, subIndex)=>(
+                                                            <li key={ subIndex }>
+                                                              <Link className="dropdown-item" to={ subItem.subMenuUrl } onClick={() => {setActiveSubmenu(null); hideMenu()}}>
+                                                                <i className="fa-solid fa-angle-right me-2"></i>{ subItem.subMenuNombre }
+                                                              </Link>
+                                                            </li>
                                                         ))
                                                     }
-                                                </ol>
+                                                </ul>
                                             )
                                         }
-                                        <span className={`triangle ${activeSubmenu ===  item.nombre  ? "show" : ""}`} />
                                     </li>
                                 ))
                             }
-
                         </ul>
+                        <div className="mobile-close-btn d-lg-none" onClick={hideMenu}>
+                            <i className="fa-solid fa-xmark"></i> Cerrar
+                        </div>
                     </div>
                 </div>
             </nav>

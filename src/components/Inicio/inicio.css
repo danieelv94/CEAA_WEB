@@ -81,11 +81,16 @@
   width: 200px;
   height: 200px;
   background-position: center;
-  background-size: cover;
+  /* CAMBIA 'cover' por 'contain' */
+  background-size: contain;
   background-repeat: no-repeat;
   border-radius: 50%;
   box-shadow: 0 15px 30px rgba(190, 15, 15, 0.08);
   border: 4px solid white;
+  overflow: hidden;
+  display: inline-block;
+  /* Opcional: añade un fondo blanco si la imagen es transparente */
+  background-color: white;
 }
 
 .hero-title h1 {
@@ -113,19 +118,18 @@
 .redes-sociales-container {
   border-radius: 24px;
   overflow: hidden;
-  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.08);
-  background: white;
-  transition: transform 0.3s ease;
-  height: 500px;
-}
-
-.redes-sociales-container:hover {
-  transform: translateY(-5px);
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto;
 }
 
 .redes-sociales-container iframe {
-  width: 100%;
-  height: 100%;
+  display: block;
+}
+
+
+.redes-sociales-container:hover {
+  transform: translateY(-5px);
 }
 
 /* --- Titular Section --- */
@@ -221,6 +225,8 @@
   border: 1px solid #f1f1f1;
   transition: transform 0.3s ease;
   padding: 15px;
+  display: flex;
+  gap: 15px;
 }
 
 .certificacion-container:hover {
@@ -229,15 +235,14 @@
 }
 
 .certificacion-img {
+  flex: 1;
   width: 100%;
   height: 100%;
   border-radius: 16px;
   background-position: center;
-  /* usa background-size: cover; si quieres que llene todo o contain si quieres que se vea completa */
   background-size: contain;
   background-repeat: no-repeat;
   background-color: #fafbfc;
-  /* Fondo sutil para que luzca bien aunque la imagen no llene todo */
 }
 
 /* --- Map Section --- */
@@ -257,6 +262,28 @@
 }
 
 .map-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* --- PDF Section --- */
+.pdf-container {
+  border-radius: 24px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.08);
+  height: 500px;
+  border: 1px solid #f1f1f1;
+  background: white;
+  transition: transform 0.3s ease;
+  margin-bottom: 20px;
+}
+
+.pdf-container:hover {
+  transform: translateY(-5px);
+}
+
+.pdf-container iframe {
   width: 100%;
   height: 100%;
   border: none;

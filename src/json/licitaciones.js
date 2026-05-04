@@ -50,6 +50,38 @@ export const licitaciones = [
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/ADQ-E02-2026/FALLO-ADQ-E02-2026.pdf"
                     }
                 ]
+            }, {
+                "nombre": "CEAA-913023990-SERV-E3-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/SERV-E03-2026/BASES-SERV-E03-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/SERV-E03-2026/CONVOCATORIA-SERV-E03-2026.pdf"
+                    }, ,
+                    {
+                        "nombre": "Ficha Técnica",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/SERV-E03-2026/FICHA-TECNICA-SERV-E03-2026.pdf"
+                    },
+                    {
+                        "nombre": "Términos de Referencia",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/SERV-E03-2026/TERMINOS-REFERENCIA-SERV-E03-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/SERV-E03-2026/JUNTA-SERV-E03-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/SERV-E03-2026/ACTA-SERV-E03-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/SERV-E03-2026/FALLO-SERV-E03-2026.pdf"
+                    }
+                ]
             }
         ]
     },
