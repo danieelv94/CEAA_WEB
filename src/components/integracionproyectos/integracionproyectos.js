@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './transparencia.css';
-import { labagua_item } from '../../json/labaguaitem';
+import { integracionproyectos_item } from '../../json/integracionproyectos';
 
-const Labagua = () => {
+const Integracionproyectos = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
@@ -12,15 +12,15 @@ const Labagua = () => {
             <div className='row'>
                 <div className='col-12'>
                     <div className='transparencia_title'>
-                        <h1>Laboratorio de Calidad del Agua</h1>
+                        <h1>Controles para Integración de Proyectos Hidricos</h1>
                     </div>
                 </div>
             </div>
             <div className='row'>
                 {
-                    labagua_item.map((item, index) => (
+                    integracionproyectos_item.map((item, index) => (
                         <div key={index} className='col-md-4 col-sm-6 col-12 transparencia_item'>
-                            <Link to={item.labagua_item_url}>{item.labagua_item_nombre}</Link>
+                            <Link to={item.integracionproyectos_item_url}>{item.integracionproyectos_item_nombre}</Link>
                         </div>
                     ))
                 }
@@ -29,4 +29,4 @@ const Labagua = () => {
     )
 }
 
-export default Labagua
+export default Integracionproyectos
