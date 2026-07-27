@@ -12,6 +12,10 @@ export const rubrosHistoricos = [
             }, {
                 "trimestre": "Tercer Trimestre",
                 "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/dir1/zip/3erTrimestre2025CEAA.zip"
+            },
+            {
+                "trimestre": "Cuarto Trimestre",
+                "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/dir1/zip/4toTrimestre2025CEAA.zip"
             }
         ]
     }, {

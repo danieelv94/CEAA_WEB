@@ -3,6 +3,7 @@ import Carousel from '../Carousel/Carousel';
 import './inicio.css';
 import { titular } from '../../json/titular';
 import { carouselInicio } from '../../json/carousel';
+import UltimasNoticias from '../UltimasNoticias/UltimasNoticias';
 
 const Inicio = () => {
 
@@ -154,6 +155,9 @@ const Inicio = () => {
             </div>
           </div>
         </div>
+
+        {/* ULTIMAS NOTICIAS */}
+        <UltimasNoticias />
 
         {/* UBICACIÓN */}
         <div className='row mt-5'>
