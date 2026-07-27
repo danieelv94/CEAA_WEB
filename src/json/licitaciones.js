@@ -1784,6 +1784,857 @@ export const licitaciones = [
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E50-2026/FALLO-OP-E50-2026.pdf"
                     }
                 ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E51-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/BASES-OP-E51-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/CONVOCATORIA-OP-E51-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/CATALOGO-MUDO-OP-E51-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/PLANOS-OP-E51-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/ESPECIFICACIONES-OP-E51-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/JUNTA-OP-E51-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/ACTA-OP-E51-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/FALLO-OP-E51-2026.pdf"
+                    }
+                ]
+            },
+
+            {
+                "nombre": "CEAA-OP-913023990-E52-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/BASES-OP-E52-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/CONVOCATORIA-OP-E52-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/CATALOGO-MUDO-OP-E52-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/PLANOS-OP-E52-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/ESPECIFICACIONES-OP-E52-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/JUNTA-OP-E52-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/ACTA-OP-E52-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/FALLO-OP-E52-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E53-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/BASES-OP-E53-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/CONVOCATORIA-OP-E53-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/CATALOGO-MUDO-OP-E53-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/PLANOS-OP-E53-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/ESPECIFICACIONES-OP-E53-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/JUNTA-OP-E53-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/ACTA-OP-E53-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/FALLO-OP-E53-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E54-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/BASES-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/CONVOCATORIA-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/CATALOGO-MUDO-OP-E56-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/PLANOS-OP-E56-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/ESPECIFICACIONES-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/JUNTA-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/ACTA-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/FALLO-OP-E56-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E55-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/BASES-OP-E55-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/CONVOCATORIA-OP-E55-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/CATALOGO-MUDO-OP-E55-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/PLANOS-OP-E55-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/ESPECIFICACIONES-OP-E55-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/JUNTA-OP-E55-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/ACTA-OP-E55-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/FALLO-OP-E55-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E56-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/BASES-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/CONVOCATORIA-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/CATALOGO-MUDO-OP-E56-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/PLANOS-OP-E56-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/ESPECIFICACIONES-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/JUNTA-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/ACTA-OP-E56-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/FALLO-OP-E56-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E57-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/BASES-OP-E57-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/CONVOCATORIA-OP-E57-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/CATALOGO-MUDO-OP-E57-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/PLANOS-OP-E57-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/ESPECIFICACIONES-OP-E57-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/JUNTA-OP-E57-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/ACTA-OP-E57-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E57-2026/FALLO-OP-E57-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E58-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/BASES-OP-E58-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/CONVOCATORIA-OP-E58-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/CATALOGO-MUDO-OP-E58-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/PLANOS-OP-E58-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/ESPECIFICACIONES-OP-E58-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/JUNTA-OP-E58-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/ACTA-OP-E58-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E58-2026/FALLO-OP-E58-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E59-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/BASES-OP-E59-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/CONVOCATORIA-OP-E59-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/CATALOGO-MUDO-OP-E59-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/PLANOS-OP-E59-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/ESPECIFICACIONES-OP-E59-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/JUNTA-OP-E59-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/ACTA-OP-E59-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E59-2026/FALLO-OP-E59-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E60-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/BASES-OP-E60-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/CONVOCATORIA-OP-E60-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/CATALOGO-MUDO-OP-E60-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/PLANOS-OP-E60-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/ESPECIFICACIONES-OP-E60-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/JUNTA-OP-E60-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/ACTA-OP-E60-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E60-2026/FALLO-OP-E60-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E61-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/BASES-OP-E61-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/CONVOCATORIA-OP-E61-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/CATALOGO-MUDO-OP-E61-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/PLANOS-OP-E61-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/ESPECIFICACIONES-OP-E61-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/JUNTA-OP-E61-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/ACTA-OP-E61-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E61-2026/FALLO-OP-E61-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E62-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/BASES-OP-E62-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/CONVOCATORIA-OP-E62-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/CATALOGO-MUDO-OP-E62-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/PLANOS-OP-E62-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/ESPECIFICACIONES-OP-E62-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/JUNTA-OP-E62-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/ACTA-OP-E62-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E62-2026/FALLO-OP-E62-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E63-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/BASES-OP-E63-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/CONVOCATORIA-OP-E63-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/CATALOGO-MUDO-OP-E63-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/PLANOS-OP-E63-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/ESPECIFICACIONES-OP-E63-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/JUNTA-OP-E63-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/ACTA-OP-E63-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E63-2026/FALLO-OP-E63-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E64-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/BASES-OP-E64-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/CONVOCATORIA-OP-E64-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/CATALOGO-MUDO-OP-E64-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/PLANOS-OP-E64-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/ESPECIFICACIONES-OP-E64-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/JUNTA-OP-E64-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/ACTA-OP-E64-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E64-2026/FALLO-OP-E64-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E65-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/BASES-OP-E65-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/CONVOCATORIA-OP-E65-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/CATALOGO-MUDO-OP-E65-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/PLANOS-OP-E65-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/ESPECIFICACIONES-OP-E65-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/JUNTA-OP-E65-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/ACTA-OP-E65-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E65-2026/FALLO-OP-E65-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E66-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/BASES-OP-E66-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/CONVOCATORIA-OP-E66-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/CATALOGO-MUDO-OP-E66-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/PLANOS-OP-E66-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/ESPECIFICACIONES-OP-E66-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/JUNTA-OP-E66-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/ACTA-OP-E66-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E66-2026/FALLO-OP-E66-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E67-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/BASES-OP-E67-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/CONVOCATORIA-OP-E67-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/CATALOGO-MUDO-OP-E67-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/PLANOS-OP-E67-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/ESPECIFICACIONES-OP-E67-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/JUNTA-OP-E67-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/ACTA-OP-E67-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E67-2026/FALLO-OP-E67-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E68-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/BASES-OP-E68-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/CONVOCATORIA-OP-E68-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/CATALOGO-MUDO-OP-E68-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/PLANOS-OP-E68-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/ESPECIFICACIONES-OP-E68-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/JUNTA-OP-E68-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/ACTA-OP-E68-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E68-2026/FALLO-OP-E68-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E69-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/BASES-OP-E69-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/CONVOCATORIA-OP-E69-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/CATALOGO-MUDO-OP-E69-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/PLANOS-OP-E69-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/ESPECIFICACIONES-OP-E69-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/JUNTA-OP-E69-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/ACTA-OP-E69-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E69-2026/FALLO-OP-E69-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E70-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/BASES-OP-E70-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/CONVOCATORIA-OP-E70-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/CATALOGO-MUDO-OP-E70-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/PLANOS-OP-E70-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/ESPECIFICACIONES-OP-E70-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/JUNTA-OP-E70-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/ACTA-OP-E70-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E70-2026/FALLO-OP-E70-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E71-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/BASES-OP-E71-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/CONVOCATORIA-OP-E71-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/CATALOGO-MUDO-OP-E71-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/PLANOS-OP-E71-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/ESPECIFICACIONES-OP-E71-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/JUNTA-OP-E71-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/ACTA-OP-E71-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E71-2026/FALLO-OP-E71-2026.pdf"
+                    }
+                ]
+            }, {
+                "nombre": "CEAA-OP-913023990-E72-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/BASES-OP-E72-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/CONVOCATORIA-OP-E72-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/CATALOGO-MUDO-OP-E72-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/PLANOS-OP-E72-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/ESPECIFICACIONES-OP-E72-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/JUNTA-OP-E72-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/ACTA-OP-E72-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/FALLO-OP-E72-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "nombre": "CEAA-OP-913023990-E73-2026",
+                "contenidoLicitacion": [
+                    {
+                        "nombre": "Bases",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/BASES-OP-E73-2026.pdf"
+                    },
+                    {
+                        "nombre": "Convocatoria",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/CONVOCATORIA-OP-E73-2026.pdf"
+                    },
+                    {
+                        "nombre": "Catálogo Mudo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/CATALOGO-MUDO-OP-E73-2026.xlsx"
+                    },
+                    {
+                        "nombre": "Planos",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/PLANOS-OP-E73-2026.zip"
+                    },
+                    {
+                        "nombre": "Especificaciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/ESPECIFICACIONES-OP-E73-2026.pdf"
+                    },
+                    {
+                        "nombre": "Junta de Aclaraciones",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/JUNTA-OP-E73-2026.pdf"
+                    },
+                    {
+                        "nombre": "Presentación y Apertura de propuestas",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/ACTA-OP-E73-2026.pdf"
+                    },
+                    {
+                        "nombre": "Fallo",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/FALLO-OP-E73-2026.pdf"
+                    }
+                ]
             }
         ]
     },
