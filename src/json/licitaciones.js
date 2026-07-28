@@ -1793,6 +1793,10 @@ export const licitaciones = [
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/BASES-OP-E51-2026.pdf"
                     },
                     {
+                        "nombre": "Invitación",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/INVITACION-OP-E51-2026.pdf"
+                    },
+                    {
                         "nombre": "Convocatoria",
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E51-2026/CONVOCATORIA-OP-E51-2026.pdf"
                     },
@@ -1829,6 +1833,10 @@ export const licitaciones = [
                     {
                         "nombre": "Bases",
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/BASES-OP-E52-2026.pdf"
+                    },
+                    {
+                        "nombre": "Invitación",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E52-2026/INVITACION-OP-E52-2026.pdf"
                     },
                     {
                         "nombre": "Convocatoria",
@@ -1868,6 +1876,10 @@ export const licitaciones = [
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/BASES-OP-E53-2026.pdf"
                     },
                     {
+                        "nombre": "Invitación",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/INVITACION-OP-E53-2026.pdf"
+                    },
+                    {
                         "nombre": "Convocatoria",
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E53-2026/CONVOCATORIA-OP-E53-2026.pdf"
                     },
@@ -1902,35 +1914,39 @@ export const licitaciones = [
                 "contenidoLicitacion": [
                     {
                         "nombre": "Bases",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/BASES-OP-E56-2026.pdf"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/BASES-OP-E54-2026.pdf"
+                    },
+                    {
+                        "nombre": "Invitación",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/INVITACION-OP-E54-2026.pdf"
                     },
                     {
                         "nombre": "Convocatoria",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/CONVOCATORIA-OP-E56-2026.pdf"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/CONVOCATORIA-OP-E54-2026.pdf"
                     },
                     {
                         "nombre": "Catálogo Mudo",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/CATALOGO-MUDO-OP-E56-2026.xlsx"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/CATALOGO-MUDO-OP-E54-2026.xlsx"
                     },
                     {
                         "nombre": "Planos",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/PLANOS-OP-E56-2026.zip"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/PLANOS-OP-E54-2026.zip"
                     },
                     {
                         "nombre": "Especificaciones",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/ESPECIFICACIONES-OP-E56-2026.pdf"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/ESPECIFICACIONES-OP-E54-2026.pdf"
                     },
                     {
                         "nombre": "Junta de Aclaraciones",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/JUNTA-OP-E56-2026.pdf"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/JUNTA-OP-E54-2026.pdf"
                     },
                     {
                         "nombre": "Presentación y Apertura de propuestas",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/ACTA-OP-E56-2026.pdf"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/ACTA-OP-E54-2026.pdf"
                     },
                     {
                         "nombre": "Fallo",
-                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E56-2026/FALLO-OP-E56-2026.pdf"
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E54-2026/FALLO-OP-E54-2026.pdf"
                     }
                 ]
             },
@@ -1940,6 +1956,10 @@ export const licitaciones = [
                     {
                         "nombre": "Bases",
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/BASES-OP-E55-2026.pdf"
+                    },
+                    {
+                        "nombre": "Invitación",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E55-2026/INVITACION-OP-E55-2026.pdf"
                     },
                     {
                         "nombre": "Convocatoria",
@@ -2570,6 +2590,10 @@ export const licitaciones = [
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/BASES-OP-E72-2026.pdf"
                     },
                     {
+                        "nombre": "Invitación",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/INVITACION-OP-E72-2026.pdf"
+                    },
+                    {
                         "nombre": "Convocatoria",
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E72-2026/CONVOCATORIA-OP-E72-2026.pdf"
                     },
@@ -2605,6 +2629,10 @@ export const licitaciones = [
                     {
                         "nombre": "Bases",
                         "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/BASES-OP-E73-2026.pdf"
+                    },
+                    {
+                        "nombre": "Invitación",
+                        "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/CEAA/2026/R28/OP-E73-2026/INVITACION-OP-E73-2026.pdf"
                     },
                     {
                         "nombre": "Convocatoria",
